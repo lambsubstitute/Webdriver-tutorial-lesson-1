@@ -18,7 +18,8 @@ For this tutorial you will need the following things installed:
 Once you have these installed, install the required gems by runnning the following commands in terminal 
 
 4. gem install watir-webdriver
-   gem install cucumber
+   
+gem install cucumber
    
 
 Optional installs (which are not required but will make your life easier and are recomended)
