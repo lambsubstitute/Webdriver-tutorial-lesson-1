@@ -20,6 +20,10 @@ Once you have these installed, install the required gems by runnning the followi
 4. gem install watir-webdriver
    
    gem install cucumber
+
+   gem install test-unit
+   
+   gem install rspec
    
 
 Optional installs (which are not required but will make your life easier and are recomended)
