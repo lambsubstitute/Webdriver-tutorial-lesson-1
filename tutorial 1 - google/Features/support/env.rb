@@ -1,14 +1,6 @@
 require 'watir-webdriver'
 require 'rubygems'
-#require ' test/unit'
 require 'rspec/expectations'
-include Test::Unit::Assertions;
-
-
-
-
-
-
 
 
 Before do
@@ -18,7 +10,7 @@ Before do
 end
 
 
-at_exit do
+After do
   @browser.close
 end
 
